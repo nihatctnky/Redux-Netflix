@@ -1,6 +1,8 @@
 # Redux-Netflix
 
-Bu proje, modern React ve çeşitli kullanışlı kütüphaneler kullanılarak oluşturulmuş Netflix'ten esinlenilmiş bir web uygulamasıdır. Filmleri görüntüleme ve tarama, filmleri kişisel listenize ekleme, listeden silme ve izleme listenizi yönetme gibi temel işlevleri içerir.
+Bu proje, React ve Redux kullanarak yapılmış bir Netflix klonudur. 
+Redux ile yönetilen global durum, uygulamanın tüm verilerini merkezi bir yerde saklayarak, bileşenler arası verilerin daha kolay bir şekilde paylaşılmasını sağlar. 
+Ayrıca, kullanıcıların film ve dizi listelerini görüntülemelerine, arama yapmalarına ve detaylarını görmelerine olanak tanır.
 
 # Kütüphaneler
 Tepki-yönlendirici-dom
