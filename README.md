@@ -1,26 +1,30 @@
-# Redux-Netflix
+![ScreenRecording2024-12-03at17 39 17-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/22b72191-0f87-45d3-a24a-87fbf004bf03)# Redux-Netflix
 
 Bu proje, React ve Redux kullanarak yapılmış bir Netflix klonudur. 
 Redux ile yönetilen global durum, uygulamanın tüm verilerini merkezi bir yerde saklayarak, bileşenler arası verilerin daha kolay bir şekilde paylaşılmasını sağlar. 
 Ayrıca, kullanıcıların film ve dizi listelerini görüntülemelerine, arama yapmalarına ve detaylarını görmelerine olanak tanır.
 
 # Kütüphaneler
-Tepki-yönlendirici-dom
+• Tepki-yönlendirici-dom
 
-Yeniden
+• Yeniden
 
-Tepki-redux
+• Tepki-redux
 
-Redux-thunk
+• Redux-thunk
 
-Aksiyomlar
+• Aksiyomlar
 
-Tepki simgeleri
+• Tepki simgeleri
 
-Tailwindcss
+• Tailwindcss
 
-@splidejs/splide
+• @splidejs/splide
 
-@splidejs/react-splide
+• @splidejs/react-splide
 
-Milleştirmek
+• Milleştirmek
+
+# Ekran Gif
+
+![Uploading ScreenRecording2024-12-03at17.39.17-ezgif.com-video-to-gif-converter.gif…]()
