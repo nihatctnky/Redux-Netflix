@@ -10,8 +10,9 @@ const VideoList = ({ videos }) => {
                 <h2 className="font-semibold text-lg md:text-xl my-5">Fragmanlar</h2>
 
                 <Splide options={{
-                    // Video uzantısını Splide'ye doğru şekilde ekliyoruz
+                    type: 'loop',
                     extensions: [Video],
+                    keyboard: true,
                 }}>
                     {videos.map((video, key) => (
                         <SplideSlide key={key}>
