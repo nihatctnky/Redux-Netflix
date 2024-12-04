@@ -4,12 +4,21 @@ Bu proje, modern React ve çeşitli kullanışlı kütüphaneler kullanılarak o
 
 # Kütüphaneler
 Tepki-yönlendirici-dom
+
 Yeniden
+
 Tepki-redux
+
 Redux-thunk
+
 Aksiyomlar
+
 Tepki simgeleri
+
 Tailwindcss
+
 @splidejs/splide
+
 @splidejs/react-splide
+
 Milleştirmek
